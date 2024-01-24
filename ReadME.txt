@@ -1,1 +1,1 @@
-This is my first Project in python Using Tkinter to GUI Interface , Auto Correct Lib , Python programming Language .
+This is my first project in Python using Tkinter for a GUI interface, AutoCorrect library, and the Python programming language. To run the script, the AutoCorrect library should be included on your machine.
